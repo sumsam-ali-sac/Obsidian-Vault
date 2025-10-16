@@ -4,6 +4,7 @@
 ### 💡 Simple idea:
 
 A **namespace** is like a **private view** of part of the operating system.
+for ex:
 
 Think of your Linux system as a **shared apartment** (the kernel).  
 Namespaces let you create **separate rooms** — each with its **own furniture**, **own windows**, and **own keys** — even though they’re all inside the same apartment.
