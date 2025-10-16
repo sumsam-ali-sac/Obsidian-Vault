@@ -4,6 +4,7 @@
 **Question:**  
 The line graph below shows the percentage of households with internet access in three countries (the UK, the USA, and Canada) between 2000 and 2020.
 
+
 ---
 
 ### **Band 9 Sample Answer:**
