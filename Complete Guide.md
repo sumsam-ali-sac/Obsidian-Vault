@@ -414,7 +414,3 @@
 |4|LSTM, Transformers, ML Forecasting|Deep learning stock predictor|
 |5|Risk modeling, backtesting, RL trading|Algorithmic trading bot|
 |6|Dashboards, APIs, deployment|Live forecast dashboard|
-
----
-
-Would you like me to now turn **this concept + project map** into a **Notion-ready Markdown file** (with collapsible toggles, progress checkboxes, and project links format) — so you can directly import it and start tracking progress inside Notion?
