@@ -75,6 +75,28 @@ Power BI, Reports, Apps
 
 > No full reloads — only what changed.
 
+
+# Data
+
+![[Pasted image 20251027160524.png]]
+
+| Category          | Count/Size                         |
+| ----------------- | ---------------------------------- |
+| Active blobs      | 43,577 blobs                       |
+| Active blob size  | 265.25 GiB (284,807,832,817 bytes) |
+| Snapshots         | 0 blobs                            |
+| Snapshot size     | 0 blobs                            |
+| Deleted blobs     | 54,880 blobs                       |
+| Deleted blob size | 584.43 GiB (627,522,500,960 bytes) |
+| Total blobs       | 98,457 items                       |
+| Total blobs       | 849.67 GiB (912,330,333,777 bytes) |
+|                   |                                    |
+
+
+
+## Tables
+
+
 | TableName                                    | Rows     |
 | -------------------------------------------- | -------- |
 | account                                      | 62864    |
